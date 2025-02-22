@@ -13,3 +13,6 @@
 앞으로 유니티와 앱과 연동해보는 프로젝트도 시도해보아야겠다.
 
 ### [게임 링크](https://play.unity.com/en/games/1bd7aefd-79f7-4d53-91cb-45754e3e3f51/webgl-builds)
+
+## 참여 선물
+<img src="https://github.com/user-attachments/assets/72ae1a18-a1ce-4e3a-95a0-51853f68666a" width="300" alt="KakaoTalk_20250223_012752105">
